@@ -1,9 +1,7 @@
 # Verify_Me
 #### Video Demo: https://youtu.be/Uv_689hzC-I
 #### Description:
-
-## Introduction
-`verify_me` is an innovative app designed for my CS50P class, offering a secure and private way for users to verify their identity for various services. By generating IDs which can be used by the service provider to verify the person in front of them, verify_me enables verification without physical documents, and protects user privacy by providing only information a service provider requires and not one bit more.
+verify_me is an innovative app designed for my CS50P class, offering a secure and private way for users to verify their identity for various services. By generating IDs which can be used by the service provider to verify the person in front of them, verify_me enables verification without physical documents, and protects user privacy by providing only information a service provider requires and not one bit more.
 
 ## Technical Overview
 
