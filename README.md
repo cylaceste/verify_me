@@ -15,7 +15,7 @@
 - Verification Expiration and One-Time-Use IDs.
 - User and Service Provider Interfaces.
 - Data synchronization with official records.
-- Multi-Language Support and Enhanced Security Protocols.
+- Security.
 
 ## Usage Scenarios
 
